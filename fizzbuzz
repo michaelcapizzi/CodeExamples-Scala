@@ -1,5 +1,7 @@
 import scala.io.Source
 
+//https://www.codeeval.com/open_challenges/1/
+
 object easy1 {
 //function definition
 	//def main allows for arguments to be called from command line
